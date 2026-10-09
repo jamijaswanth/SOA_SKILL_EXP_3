@@ -1,0 +1,5 @@
+package com.soa.userregistration;
+
+public class User {
+
+}
